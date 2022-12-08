@@ -82,7 +82,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## Presenters
 
-## &nbsp; <img src="imgs/Chenguang.jpg" width="100" align=center> &nbsp; <img src="imgs/Yichong.jpg" width="100" align=center> &nbsp;  <img src="imgs/Xiang.jpg" width="100" align=center> &nbsp; <img src="imgs/Yuchen.jpg" width="120" align=center> &nbsp; <img src="imgs/Meng.jpg" width="100" align=center> &nbsp; <img src="imgs/Wenhao.jpg" width="100" align=center> 
+## &nbsp; <img src="imgs/Chenguang.jpg" width="108" align=center> &nbsp; <img src="imgs/Yichong.jpg" width="108" align=center> &nbsp;  <img src="imgs/Xiang.jpg" width="108" align=center> &nbsp; <img src="imgs/Yuchen.jpg" width="108" align=center> &nbsp; <img src="imgs/Meng.jpg" width="108" align=center> &nbsp; <img src="imgs/Wenhao.jpg" width="108" align=center> 
 
 Chenguang Zhu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yichong Xu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Xiang Ren &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yuchen Lin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meng Jiang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wenhao Yu
 
