@@ -1,4 +1,4 @@
-# ACL2022_KnowledgeNLP_Tutorial
+# WSDM2023_KnowledgeNLP_Tutorial
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
@@ -6,9 +6,9 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 ## Time and Location
 
-**1. Time: 9:30am - 1:00pm, May 22th, 2022 (GMT).** 
+**1. Time: TBD.** 
 
-**2. Location: Wicklow Hall 2, Convention Centre Dublin.**
+**2. Location: TBD.**
 
 **3. Zoom: Click "join zoom room" at Underline.**
 
@@ -68,7 +68,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 - Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, in NAACL 2021. [\[pdf\]](https://arxiv.org/abs/2003.08612)
 
 
-## Tutorial schedule
+## Tutorial schedule (Tentative)
 
 | Local time (GMT) | Content | Presenter | Slides |
 | :---: | :---: | :---: | :---: |
