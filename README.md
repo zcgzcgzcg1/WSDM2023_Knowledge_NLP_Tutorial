@@ -84,7 +84,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## &nbsp; <img src="imgs/Chenguang.jpg" width="108" align=center> &nbsp; <img src="imgs/Yichong.jpg" width="108" align=center> &nbsp;  <img src="imgs/Xiang.jpg" width="108" align=center> &nbsp; <img src="imgs/Yuchen.jpg" width="108" align=center> &nbsp; <img src="imgs/Meng.jpg" width="108" align=center> &nbsp; <img src="imgs/Wenhao.jpg" width="108" align=center> 
 
-Chenguang Zhu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yichong Xu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Xiang Ren &nbsp; &nbsp; &nbsp; &nbsp; Yuchen Lin &nbsp; &nbsp; &nbsp; &nbsp; Meng Jiang &nbsp; &nbsp; &nbsp; &nbsp; Wenhao Yu
+Chenguang Zhu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yichong Xu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Xiang Ren &nbsp; &nbsp; &nbsp; &nbsp; Yuchen Lin &nbsp; &nbsp; &nbsp; &nbsp; Meng Jiang &nbsp; &nbsp; &nbsp; &nbsp; Wenhao Yu
 
 **[Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)** is a Principal Research Manager in Microsoft Cognitive Services Research Group, where he leads the Knowledge & Language Team. His research in NLP covers knowledge graph, text summarization and task-oriented dialogue. He has led teams to achieve first places in multiple NLP competitions, including CommonsenseQA, CommonGen, FEVER, CoQA, ARC and SQuAD v1.0. He holds a Ph.D. degree in Computer Science from Stanford University. Dr. Zhu has given talks at Stanford University, Carnegie Mellon University and University of Notre Dame. He has previously been TA for Coursera online class “Automata”, giving teaching sessions to 100K international students. 
 
