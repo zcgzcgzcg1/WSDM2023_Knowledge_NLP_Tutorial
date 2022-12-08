@@ -70,7 +70,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## Tutorial schedule (Tentative)
 
-| Local time (GMT) | Content | Presenter | Slides |
+| Local time (GMT+8) | Content | Presenter | Slides |
 | :---: | :---: | :---: | :---: |
 | 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu | [\[Slides\]](/files/PART1_Introduction.pdf) |
 | 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu | [\[Slides\]](/files/PART2_Knowledge_NLU.pdf) |
