@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmented Methods for Natural Language Processing
+Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowledge-Augmented Methods for Natural Language Processing
 
 ## Time and Location
 
