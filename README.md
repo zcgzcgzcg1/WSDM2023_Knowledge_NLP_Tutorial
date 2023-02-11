@@ -6,11 +6,11 @@ Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowle
 
 ## Time and Location
 
-**1. Time: TBD.** 
+1. Time: 8:30am-12:00pm (GMT+8), Feb. 27, 2023.
 
-**2. Location: TBD.**
+2. Location: Level 2, Empress 2
 
-**3. Zoom: Click "join zoom room" at Underline.**
+3. Zoom: Click "join zoom room" at Underline.
 
 ## Tutorial abstract [\[PDF\]](/files/knowledge_tutorial.pdf)
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
