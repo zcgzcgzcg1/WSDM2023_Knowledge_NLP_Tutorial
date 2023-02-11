@@ -12,24 +12,12 @@ Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowle
 
 3. Zoom: Click "join zoom room" at Underline.
 
-## Tutorial abstract [\[PDF\]](/files/knowledge_tutorial.pdf)
+## Tutorial abstract 
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
-
-#### If you find this tutorial helpful for your work, please kindly cite our paper.
-
-```
-@inproceedings{zhu2022knowledge,
-  title={Knowledge-Augmented Methods for Natural Language Processing},
-  author={Zhu, Chenguang and Xu, Yichong and Ren, Xiang and Lin, Bill and Jiang, Meng and Yu, Wenhao},
-  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts},
-  pages={12--20},
-  year={2022}
-}
-```
 
 ## Tutorial Materials
 
-**1. Slides** [\[Introduction\]](/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](/files/PART2_Knowledge_NLU.pdf) [\[KnowledgeForNLG\]](/files/PART3_Knowledge_NLG.pdf) [\[KnowledgeForCommonsense\]](/files/PART4_Knowledge_CR.pdf) [\[Conclusion\]](/files/PART5_Conclusion.pdf)
+**1. Slides** [\[Introduction\]](/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART2_Knowledge_in_NLU.pdf) [\[KnowledgeForNLG\]](/files/PART3_Knowledge_NLG.pdf) [\[KnowledgeForCommonsense\]](/files/PART4_Knowledge_CR.pdf) [\[Conclusion\]](/files/PART5_Conclusion.pdf)
 
 **2. Video** Available after the tutorial
 
