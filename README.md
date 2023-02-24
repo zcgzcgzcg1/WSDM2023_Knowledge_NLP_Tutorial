@@ -6,11 +6,12 @@ Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowle
 
 ## Time and Location
 
-1. Time: 8:30am-12:00pm (GMT+8), Feb. 27, 2023.
+1. Time: 8:30am - 12:00pm (GMT+8), February 27, 2023.
 
-2. Location: Level 2, Empress 2
+2. Location: Level 2, Empress 2 in Carlton Hotel, Singapore
 
-3. Zoom: Click "join zoom room" at Underline.
+3. Live Stream on Zoom: [\[Join stream\]](https://zoom.us/j/93670940327?pwd=aVArWW9XNVZWNmpwYUdXUS9uV3AvZz09#success)
+
 
 ## Tutorial Abstract 
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
@@ -25,11 +26,8 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 - A Survey of Knowledge-enhanced Text Generation, in ACM Computing Survey (CUSR) 2022. [\[PDF\]](https://arxiv.org/abs/2010.04389)
 
-- A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2021. [\[pdf\]](https://arxiv.org/pdf/2110.00269.pdf)
+- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, in ACM Computing Survey (CUSR) 2023. [\[pdf\]](https://arxiv.org/pdf/2107.13586.pdf)
 
-- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [\[pdf\]](https://arxiv.org/pdf/2107.13586.pdf)
-
-- A Survey on Retrieval-Augmented Text Generation, on arXiv 2022. [\[pdf\]](https://arxiv.org/pdf/2202.01110.pdf)
 
 **4. Reading list:**
 
@@ -40,7 +38,15 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 - Differentiable Open-Ended Commonsense Reasoning, in NAACL 2021. [\[pdf\]](https://aclanthology.org/2021.naacl-main.366)
 
 - CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning, in EMNLP 2021. [\[pdf\]](https://aclanthology.org/2020.findings-emnlp.165/)
-  
+
+- Generate rather than Retrieve: Large Language Models are Strong Context Generators, in ICLR 2023. [\[pdf\]](https://arxiv.org/abs/2209.10063)
+
+- Retrieval Augmentation for Commonsense Reasoning: A Unified Approach, in EMNLP 2022. [\[pdf\]](https://arxiv.org/abs/2210.12887)
+
+- A Unified Encoder-Decoder Framework with Entity Memory, in EMNLP 2022. [\[pdf\]](https://arxiv.org/abs/2210.03273)
+
+- Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering, in EMNLP 2022. [\[pdf\]](https://arxiv.org/abs/2210.02933)
+
 - KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering, in ACL 2022. [\[pdf\]](https://arxiv.org/abs/2110.04330)
 
 - Dict-BERT: Enhancing Language Model Pre-training with Dictionary, in ACL 2022. [\[pdf\]](https://arxiv.org/abs/2110.06490)
@@ -54,6 +60,8 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 - JAKET: Joint Pre-training of Knowledge Graph and Language Understanding, in AAAI 2022. [\[pdf\]](https://arxiv.org/abs/2010.00796)
 
 - Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, in NAACL 2021. [\[pdf\]](https://arxiv.org/abs/2003.08612)
+
+- REPLUG: Retrieval-Augmented Black-Box Language Models, on ArXiv 2023. [\[pdf\]](https://arxiv.org/abs/2301.12652) 
 
 
 ## Tutorial schedule (Tentative)
@@ -80,9 +88,8 @@ Chenguang Zhu &nbsp; &nbsp; &nbsp; Yichong Xu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 **[Xiang Ren](https://shanzhenren.github.io/)** is an assistant professor at the USC Computer Science Department, a Research Team Leader at USC ISI, and the PI of the Intelligence and Knowledge Discovery (INK) Lab at USC. Priorly, he received his Ph.D. in Computer Science from the University of Illinois Urbana-Champaign. Dr. Ren works on knowledge acquisition and reasoning in natural language processing, with focuses on developing human-centered and label-efficient computational methods for building trustworthy NLP systems. Ren publishes over 100 research papers and delivered over 10 tutorials at the top conferences in natural language process, data mining, and artificial intelligence. He received NSF CAREER Award, The Web Conference Best Paper runner-up, ACM SIGKDD Doctoral Dissertation Award, and several research awards from Google, Amazon, JP Morgan, Sony, and Snapchat. He was named Forbes' Asia 30 Under 30 in 2019.
 
-**[Bill Yuchen Lin](https://yuchenlin.xyz/)** is a Ph.D. candidate at USC. His research goal is to teach machines to think, talk, and act with commonsense knowledge and commonsense reasoning ability as humans do. Towards this ultimate goal, he has been developing knowledge-augmented reasoning methods (e.g., KagNet, MHGRN, DrFact) and constructing benchmark datasets (e.g., CommonGen, RiddleSense, X-CSR) that require commonsense knowledge and complex reasoning for both NLU and NLG. He initiated an online compendium of commonsense reasoning  research, which serves as a portal for the community. 
+**[Bill Yuchen Lin](https://yuchenlin.xyz/)** is a Postdoctoral Young Investigator at Allen Institute for AI (AI2), advised by Prof. Yejin Choi. He received his PhD from University of Southern California in 2022, advised by Prof. Xiang Ren. His research goal is to teach machines to think, talk, and act with commonsense knowledge and commonsense reasoning ability as humans do. Towards this ultimate goal, he has been developing knowledge-augmented reasoning methods (e.g., KagNet, MHGRN, DrFact) and constructing benchmark datasets (e.g., CommonGen, RiddleSense, X-CSR) that require commonsense knowledge and complex reasoning for both NLU and NLG. He initiated an online compendium of commonsense reasoning  research, which serves as a portal for the community. 
 
 **[Meng Jiang](http://www.meng-jiang.com/)** is currently an assistant professor at the Department of Computer Science and Engineering in the University of Notre Dame. He obtained his B.E. and Ph.D. from Tsinghua University. He spent two years in UIUC as a postdoc and joined ND in 2017. His research interests include data mining, machine learning, and natural language processing. He has published more than 100 peer-reviewed papers of these topics. He is the recipient of Notre Dame International Faculty Research Award. The honors and awards he received include best paper finalist in KDD 2014, best paper award in KDD-DLG workshop 2020, and ACM SIGSOFT Distinguished Paper Award in ICSE 2021. He received NSF CRII award in 2019 and CAREER award in 2022.
 
-**[Wenhao Yu](https://wyu97.github.io/)** is a Ph.D. candidate in the Department of Computer Science and Engineering at the University of Notre Dame. His research lies in controllable knowledge-driven natural language processing and generation. His research has been published in top-ranked NLP and data mining conferences such as ACL, EMNLP and KDD.
-
+**[Wenhao Yu](https://wyu97.github.io/)** is a Ph.D. candidate in the Department of Computer Science and Engineering at the University of Notre Dame. His research lies in language model + knowledge for solving knowledge-intensive applications, such as open-domain question answering and commonsense reasoning. He has published over 15 conference papers and presented 3 tutorials in machine learning and natural language processing conferences, including ICLR, ICML, ACL and EMNLP. He was the recipient of Bloomberg Ph.D. Fellowship in 2022 and won the best paper award at SoCal NLP in 2022. He was a research intern in Microsoft Research and Allen Institute for AI.
