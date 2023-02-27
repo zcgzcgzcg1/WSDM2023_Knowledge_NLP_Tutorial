@@ -70,10 +70,10 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 | :---: | :---: | :---: | :---: |
 | 08:30-08:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) |
 | 08:45-09:35 | Knowledge in Natural Language Understanding  | Yichong Xu | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART2_Knowledge_in_NLU.pdf) |
-| 09:35-10:00 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Commonsense_Reasoning.pdf) |
+| 09:35-10:00 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART3_Commonsense_Reasoning.pdf) |
 | 10:00-10:30 | Coffee Break  | - | - |
 | 10:30-10:55 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren | (cont.) |
-| 10:55-11:45 | Knowledge in Natural Language Generation | Wenhao Yu | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART3_Knowledge_in_NLG.pdf) |
+| 10:55-11:45 | Knowledge in Natural Language Generation | Wenhao Yu | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Knowledge_in_NLG.pdf) |
 | 11:45-12:00 | Summary and Future Direction | Meng Jiang | [\[Slides\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART5_Conclusion.pdf) |
 
 ## Presenters
