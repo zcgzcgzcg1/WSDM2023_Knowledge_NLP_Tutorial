@@ -18,7 +18,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## Tutorial Materials
 
-**1. Slides** [\[Introduction\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART2_Knowledge_in_NLU.pdf) [\[KnowledgeForNLG\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART3_Knowledge_in_NLG.pdf) [\[KnowledgeForCommonsense\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Commonsense_Reasoning.pdf) [\[Conclusion\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART5_Conclusion.pdf)
+**1. Slides** [\[Introduction\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART2_Knowledge_in_NLU.pdf) [\[KnowledgeForNLG\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Knowledge_in_NLG.pdf) [\[KnowledgeForCommonsense\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART3_Commonsense_Reasoning.pdf) [\[Conclusion\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART5_Conclusion.pdf)
 
 **2. Video** Available after the tutorial
 
