@@ -12,8 +12,12 @@ Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowle
 
 3. Live Stream on Zoom: [\[Join stream\]](https://zoom.us/j/93670940327?pwd=aVArWW9XNVZWNmpwYUdXUS9uV3AvZz09#success)
 
+## Tutorial Abstract 
+Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
+
 ## Reference
 Our tutorial has been published in WSDM'23 proceedings [\[Link\]](https://dl.acm.org/doi/10.1145/3539597.3572720)
+
 To cite our tutorial, please use the following paper information:
 ```
 @inproceedings{10.1145/3539597.3572720,
@@ -34,9 +38,6 @@ location = {Singapore, Singapore},
 series = {WSDM '23}
 }
 ```
-
-## Tutorial Abstract 
-Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
 
 ## Tutorial Materials
 
