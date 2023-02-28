@@ -12,6 +12,28 @@ Materials for [WSDM2023](https://www.wsdm-conference.org/2023/) tutorial: Knowle
 
 3. Live Stream on Zoom: [\[Join stream\]](https://zoom.us/j/93670940327?pwd=aVArWW9XNVZWNmpwYUdXUS9uV3AvZz09#success)
 
+## Reference
+Our tutorial has been published in WSDM'23 proceedings [\[Link\]](https://dl.acm.org/doi/10.1145/3539597.3572720)
+To cite our tutorial, please use the following paper information:
+```
+@inproceedings{10.1145/3539597.3572720,
+author = {Zhu, Chenguang and Xu, Yichong and Ren, Xiang and Lin, Bill Yuchen and Jiang, Meng and Yu, Wenhao},
+title = {Knowledge-Augmented Methods for Natural Language Processing},
+year = {2023},
+isbn = {9781450394079},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3539597.3572720},
+doi = {10.1145/3539597.3572720},
+abstract = {Knowledge in NLP has been a rising trend especially after the advent of large-scale pre-trained models. Knowledge is critical to equip statistics-based models with common sense, logic and other external information. In this tutorial, we will introduce recent state-of-the-art works in applying knowledge in language understanding, language generation and commonsense reasoning.},
+booktitle = {Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+pages = {1228–1231},
+numpages = {4},
+keywords = {language generation, knowledge-augmented methods, natural language understanding, commonsense reasoning},
+location = {Singapore, Singapore},
+series = {WSDM '23}
+}
+```
 
 ## Tutorial Abstract 
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
